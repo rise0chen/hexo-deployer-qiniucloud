@@ -1,7 +1,7 @@
 {
   "name": "hexo-deployer-qiniucloud",
-  "version": "0.0.6",
-  "description": "Qiniu deployer plugin of Hexo.",
+  "version": "1.0.0",
+  "description": "QiniuCloud deployer plugin of Hexo.",
   "main": "index.js",
   "author": "rise0chen",
   "homepage": "http://blog.crise.cn/",
@@ -12,7 +12,8 @@
   "keywords": [
     "hexo",
     "deployer",
-    "qiniu"
+    "qiniu",
+    "qiniucloud"
   ],
   "license": "MIT",
   "dependencies": {

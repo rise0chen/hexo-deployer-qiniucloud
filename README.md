@@ -13,7 +13,7 @@ npm install hexo-deployer-qiniucloud --save
 4.编辑`_config.yml`文件  
 ```yaml
 deploy:
-  type: qiniu
+  type: qiniucloud
   bucket: <bucketName>
   accessKey: <accessKey>
   secretKey: <secretKey>
